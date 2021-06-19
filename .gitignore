@@ -2,3 +2,4 @@ venv
 
 generator/__pycache__
 passgen/__pycache__
+.vscode
